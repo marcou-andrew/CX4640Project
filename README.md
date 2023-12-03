@@ -1,2 +1,6 @@
 # CX4640Project
-big ol balls
+---
+Name: Andrew Marcou
+Topic: FLoating Point Arithmetic
+Title: Floating Point Arithmetic
+----
