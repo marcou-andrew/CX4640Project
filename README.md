@@ -70,6 +70,8 @@ For Example:
 
 </div>
 
+Fortunately, binary multiplication works in the same manner as decimal.
+
 ## Floating Point Numbers
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
