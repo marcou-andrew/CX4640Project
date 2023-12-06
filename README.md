@@ -82,15 +82,11 @@ Now that we understand the basics of base-10 versus base-2, we must now look at 
 $$
 \begin{align*}
 8,000,000,000 \\  
-or \\
-8.0 * 10^9 
 \end{align*}
 $$
-
+or  
 $$
 \begin{align*}
-8,000,000,000 \\
-or \\
 8.0 * 10^9
 \end{align*}
 $$
