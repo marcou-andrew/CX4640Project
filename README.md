@@ -32,7 +32,7 @@ we are always taught to "carry the one". This refers to the fact that the additi
 Multiplication also operates in a simple manner. Multiplication is carried out column by column, and multiplying values in more left-ward columns will cause a shift in the magnitude of the product by a power of 10. Nuumbers are still "carried" and added to their respective columns similar to addition. For example:
 
 |   |   |   |   |   |   |
-|   |   |---|---|---|---|
+|---|---|---|---|---|---|
 |   |   |   | 2 | 5 | 1 |
 |   |   | x | 4 | 6 | 3 |
 |   |   |---|---|---|---|
