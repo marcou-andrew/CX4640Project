@@ -56,6 +56,8 @@ In regards to adding binary numbers, there are 3 simple rules:
 * 0 + 0 = 1
 * 0 + 1 = 1
 * 1 + 1 = 10 (and the 1 is "carried" to the next left column)
+For Example:
+
 ## Floating Point Numbers
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
