@@ -24,7 +24,7 @@ In this system, adding is done exactly how we are used to. If we were given an a
 |---|---|---|---|
 |   | 7 | 1 | 4 |
 </div>
-we are always taught to "carry the one". This refers to the fact that the addition taking place in that specific column 
+we are always taught to "carry the one". This refers to the fact that the addition taking place in that specific column runs out of integers 1-9, and must pass a value of 1 to the next column.
 
 ### Why computer math is different
 
