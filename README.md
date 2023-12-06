@@ -36,6 +36,7 @@ Though many take it for granted, the human mind is incredibly complex and is see
 ![](binarytodecimal.png)
 
 </div>
+
 ## Floating Point Numbers
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
