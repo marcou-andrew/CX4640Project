@@ -81,9 +81,10 @@ Now that we understand the basics of base-10 versus base-2, we must now look at 
 
 <div align="center">
 8,000,000,000  
-or  
+or    
 8.0 x $10^9$
 </div>
+
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
 ### Multiplication and Division
