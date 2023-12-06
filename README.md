@@ -20,7 +20,6 @@ In this system, adding is done exactly how we are used to. If we were given an a
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |   |   |   |   |   |   |
-
 |   |   |   |   |   |   |
 |   |   |   | 2 | 5 | 1 |
 |   |   |   | 4 | 6 | 3 |
