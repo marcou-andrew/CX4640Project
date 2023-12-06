@@ -28,6 +28,7 @@ In this system, adding is done exactly how we are used to. If we were given an a
 we are always taught to "carry the one". This refers to the fact that the addition taking place in a specific column runs out of integers 1-9, and must pass a value of 1 to the next column to the left, meaning a "movement up" in order of magnitude. The process for subtraction is also very similar in base-10
 
 ### Why computer numbers are different
+Though many take it for granted, the human mind is incredibly complex and is seemingly impossible to replicate. Consequently, it is very hard for a computer to operate in base-10. Luckily, due to the way its transistors operate, a computer operates very efficiently in base-2 arithmetic.
 
 ## Floating Point Numbers
 ## Floating-Point Arithmetic
