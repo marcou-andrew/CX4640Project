@@ -79,11 +79,11 @@ Fortunately, binary multiplication works in the same manner as decimal where
 
 Now that we understand the basics of base-10 versus base-2, we must now look at how a computer stores and uses its base-2 data. Firstly, we must look at a case in which a human is asked to write the number 8 billion. They may write:
 
-\[
+\\
 8,000,000,000
 or
 8.0 x 10^9
-\]
+\\
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
 ### Multiplication and Division
