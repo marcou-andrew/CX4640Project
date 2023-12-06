@@ -12,4 +12,4 @@ Title: Computer Math versus Human Math
 
 Humans operate on base-10, or the decimal system. This means that numbers can have integer values ranging from 1-9, and the position of that number is based on powers of 10. Each number position moving from right to left is 10 times the position to its right. This gives us the system that we use every day. 
 
-![Alt text]([path/to/your/image.png](https://github.com/marcou-andrew/CX4640Project/blob/main/decimal-place-value-chart.webp)https://github.com/marcou-andrew/CX4640Project/blob/main/decimal-place-value-chart.webp)
+![Alt text](https://github.com/marcou-andrew/CX4640Project/blob/main/decimal-place-value-chart.webp)
