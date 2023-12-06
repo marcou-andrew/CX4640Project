@@ -55,8 +55,19 @@ Though many take it for granted, the human mind is incredibly complex and is see
 In regards to adding binary numbers, there are 3 simple rules:  
 * 0 + 0 = 1
 * 0 + 1 = 1
-* 1 + 1 = 10 (and the 1 is "carried" to the next left column)
+* 1 + 1 = 10 (and the 1 is "carried" to the next left column)  
 For Example:
+
+<div align="center">
+  
+|   | +1| +1| +1|   |
+|   |---|---|---|---|
+|   |   | 1 | 0 | 1 |
+|   | + | 1 | 1 | 1 |
+|   |---|---|---|---|
+|   | 1 | 1 | 0 | 0 |
+
+</div>
 
 ## Floating Point Numbers
 ## Floating-Point Arithmetic
