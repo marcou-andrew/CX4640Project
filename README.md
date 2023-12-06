@@ -71,8 +71,12 @@ For Example:
 </div>
 
 
-Fortunately, binary multiplication works in the same manner as decimal.
+Fortunately, binary multiplication works in the same manner as decimal where
+* 0 x 0 = 0
+* 0 x 1 = 0
+* 1 x 1 = 1
 
+  
 ## Floating Point Numbers
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
