@@ -32,7 +32,9 @@ we are always taught to "carry the one". This refers to the fact that the additi
 ### Why computer numbers are different
 Though many take it for granted, the human mind is incredibly complex and is seemingly impossible to replicate. Consequently, it is very hard for a computer to operate in base-10. Luckily, due to the way its transistors operate, a computer operates very efficiently in base-2 arithmetic. Base-2 means the computer only has 2 digits to work with, unlike the 10 digits that base-10 utilizes. Each position value is determined by the integer 1 or 0, and the position location is determined by powers of 2. For example, the number 5 in base-2 arithmetic is expressed as 101.
 <div align="center">
+  
 ![](binarytodecimal.png)
+
 </div>
 ## Floating Point Numbers
 ## Floating-Point Arithmetic
