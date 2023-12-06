@@ -86,7 +86,7 @@ $$
 $$
 
 <div align="center">
-or  
+or   
 </div>
 
 $$
