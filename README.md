@@ -85,6 +85,14 @@ or<br>
 8.0 * 10^9<br>  
 $$
 
+$$
+\begin{align*}
+X^2 \\
+Y^2 \\
+Z^2
+\end{align*}
+$$
+
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
 ### Multiplication and Division
