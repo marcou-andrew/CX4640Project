@@ -1,8 +1,8 @@
-# Computer Math
+# Computer Math versus Human Math
 ---
 Name: Andrew Marcou  
 Topic: Floating Point Arithmetic  
-Title: Floating Point Arithmetic  
+Title: Computer Math versus Human Math
 ----
 
 ## Introduction
