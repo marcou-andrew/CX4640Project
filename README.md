@@ -81,7 +81,7 @@ Now that we understand the basics of base-10 versus base-2, we must now look at 
 
 $$
 \begin{align*}
-8,000,000,000 \\  
+8,000,000,000 
 \end{align*}
 $$
 
