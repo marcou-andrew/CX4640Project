@@ -85,7 +85,9 @@ $$
 \end{align*}
 $$
 
+<div align="center">
 or  
+</div>
 
 $$
 \begin{align*}
