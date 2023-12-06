@@ -17,7 +17,10 @@ Humans operate on base-10, or the decimal system. This means that numbers can ha
 In this system, adding is done exactly how we are used to. If we were given an addition problem such as:
 <div align="center">
 
-
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
 |   |   |   |  | 2 | 9 |
 |   |   |   |  | 1 | 5 |
 |   |   |   |  | 4 | 4 |
