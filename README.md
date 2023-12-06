@@ -24,7 +24,7 @@ In this system, adding is done exactly how we are used to. If we were given an a
 |---|---|---|---|
 |   | 7 | 1 | 4 |
 </div>
-we are always taught to "carry the one". This refers to the fact that the addition taking place in that specific column runs out of integers 1-9, and must pass a value of 1 to the next column. The process for subtraction is also very similar in base-10
+we are always taught to "carry the one". This refers to the fact that the addition taking place in a specific column runs out of integers 1-9, and must pass a value of 1 to the next column to the left, meaning a "movement up" in order of magnitude. The process for subtraction is also very similar in base-10
 
 ### Why computer numbers are different
 
