@@ -1,6 +1,6 @@
 # CX4640Project
 ---
 Name: Andrew Marcou  
-Topic: FLoating Point Arithmetic  
+Topic: Floating Point Arithmetic  
 Title: Floating Point Arithmetic  
 ----
