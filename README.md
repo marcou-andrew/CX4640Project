@@ -1,4 +1,4 @@
-# CX4640Project
+# Computer Math
 ---
 Name: Andrew Marcou  
 Topic: Floating Point Arithmetic  
