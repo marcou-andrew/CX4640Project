@@ -16,7 +16,5 @@ Humans operate on base-10, or the decimal system. This means that numbers can ha
 
 In this system, adding is done exactly how we are used to. If we were given an addition problem such as:
 <center>
-  19
-  +21
-  _____
+this text is centered
 </center>
