@@ -14,8 +14,7 @@ Humans operate on base-10, or the decimal system. This means that numbers can ha
 
 ![Alt text](https://mathematicalmysteries.files.wordpress.com/2022/08/decimal-place-value-chart.png?w=1400)
 
-
-
+![Local Image](marcou-andrew/CX4640Project/main/decimal-place-value-chart.webp)
 
 In this system, adding is done exactly how we are used to. If we were given an addition problem such as:
 <div align="center">
