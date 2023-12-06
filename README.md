@@ -19,8 +19,6 @@ In this system, adding is done exactly how we are used to. If we were given an a
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
 |   |   |   |  | 2 | 9 |
 |   |   |   |  | 1 | 5 |
 |   |   |   |  | 4 | 4 |
