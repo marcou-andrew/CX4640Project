@@ -28,7 +28,7 @@ we are always taught to "carry the one". This refers to the fact that the additi
 
 ### Why computer math is different
 
-##Floating Point Numbers
-##Floating Point Arithmetic
-###Addition and Subtraciton
-###Multiplication and Division
+## Floating Point Numbers
+## Floating Point Arithmetic
+### Addition and Subtraciton
+### Multiplication and Division
