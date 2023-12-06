@@ -12,7 +12,7 @@ Title: Computer Math versus Human Math
 
 Humans operate on base-10, or the decimal system. This means that numbers can have integer values ranging from 1-9, and the position of that number is based on powers of 10. Each number position moving from right to left is 10 times the position to its right. Digits to the left of the decimal are representative of values greater than or equal to 1, while values to the right are representative of values less than 1. This gives us the system that we use every day. 
 
-![Alt text](https://github.com/marcou-andrew/CX4640Project/blob/main/decimalvisualization.png =300x)
+![Alt text](https://github.com/marcou-andrew/CX4640Project/blob/main/decimalvisualization.png)
 
 
 In this system, adding is done exactly how we are used to. If we were given an addition problem such as:
