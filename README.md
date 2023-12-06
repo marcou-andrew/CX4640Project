@@ -10,4 +10,4 @@ Title: Computer Math versus Human Math
 
 ### What we are used to - Human Math
 
-Humans operate on the base-10, or decimal, system. This means that numbers can have integer values ranging from 1-9, and the position of that number is based on powers of 10. Each number position moving from right to left is 10 times the position to its right. This gives us the system that we use every day. 
+Humans operate on base-10, or the decimal, system. This means that numbers can have integer values ranging from 1-9, and the position of that number is based on powers of 10. Each number position moving from right to left is 10 times the position to its right. This gives us the system that we use every day. 
