@@ -27,3 +27,8 @@ In this system, adding is done exactly how we are used to. If we were given an a
 we are always taught to "carry the one". This refers to the fact that the addition taking place in that specific column 
 
 ### Why computer math is different
+
+##Floating Point Numbers
+##Floating Point Arithmetic
+###Addition and Subtraciton
+###Multiplication and Division
