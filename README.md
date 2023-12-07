@@ -244,4 +244,5 @@ incurs catastrophic cancellation in subtracting $1 - \sqrt{1-t^2}$, but this can
 $$\frac{1}{t*(1-\sqrt{1-t^2})} * \frac{1 + \sqrt{1-t^2}}{1 + \sqrt{1-t^2}} = \frac{t}{1 + \sqrt{1-t^2}}$$
 which is a much more numerically stable expression.
 ## Summary/Conclusion
-# References
+## References
+* Eswaran, S. (2020, November 2). Floating point arithmetic: Computer architecture. Witspry Witscad. https://witscad.com/course/computer-architecture/chapter/floating-point-arithmetic 
