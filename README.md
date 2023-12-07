@@ -117,7 +117,7 @@ Below is a visualization for IEEE 754 Floating Point Standard for Single Precisi
 Below is a visualization for IEEE 754 Floating Point Standard for Single Precision
 
 ![](floatingpointnumberpiecesdouble.png)
-
+ 
 </div>
 
 ## Floating-Point Arithmetic
