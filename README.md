@@ -230,7 +230,7 @@ Errors happen very frequently when dealing with floating-point arithmetic. They 
 - Dividing a number by a very small number could return Inf or a special case of NaN
 - Dividing a very small number by a very large number could result in 0 due to mantissa limits
 - Subtraction is also NOT associative
-## Preventing Errors
+### Preventing Errors
 Sometimes it is possible to work around these errors using specific methods. Whenever possible, it is important to try to mitigate floating-point error to avoid failure of a function.
 * Try to add values of similar magnitude (i.e. add very small numbers to other very small numbers)
 * Avoid subtracting similar values; algebraically "massage" the equation to avoid this subtraction
