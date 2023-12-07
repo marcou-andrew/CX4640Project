@@ -245,4 +245,6 @@ $$\frac{1}{t*(1-\sqrt{1-t^2})} * \frac{1 + \sqrt{1-t^2}}{1 + \sqrt{1-t^2}} = \fr
 which is a much more numerically stable expression.
 ## Summary/Conclusion
 ## References
-* Eswaran, S. (2020, November 2). Floating point arithmetic: Computer architecture. Witspry Witscad. https://witscad.com/course/computer-architecture/chapter/floating-point-arithmetic 
+* Eswaran, S. (2020, November 2). Floating point arithmetic: Computer architecture. Witspry Witscad. https://witscad.com/course/computer-architecture/chapter/floating-point-arithmetic
+* YouTube. (2017). Why Do Computers Use 1s and 0s? Binary and Transistors Explained. YouTube. Retrieved December 7, 2023, from https://www.youtube.com/watch?v=Xpk67YzOn5w&amp;ab_channel=BasicsExplained%2CH3Vtux.
+* 
