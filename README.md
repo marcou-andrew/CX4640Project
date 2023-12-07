@@ -188,6 +188,8 @@ Let us look for $x * y$
 We can first find the product exponent value by adding the exponents together. This will give us
 $$4 + 2 = 6$$
 $$\therefore \text{exponent} = 10^6$$
+and now we find the mantissa value by multiplying the mantissa of x and y  
+$$3.4352 * 2.2234 = 7.63782368$$
 ### Errors: How they grow and how to prevent them
 
 ### Catastrophic Cancellation
