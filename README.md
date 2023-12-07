@@ -114,6 +114,7 @@ Below is a visualization for IEEE 754 Floating Point Standard for Single Precisi
 ![](floatinpointnumberpieces.png)  
 via: https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/
 
+
 Below is a visualization for IEEE 754 Floating Point Standard for Double Precision
 
 ![](floatingpointnumberpiecesdouble.png)   
