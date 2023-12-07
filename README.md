@@ -95,6 +95,8 @@ $$
 \end{align*}
 $$
 
+The first option takes up a lot of space, and though it is a very intuitive solution, it is very inefficient for very large and very small numbers. This way of writing numbers is referred to as a fixed-point system. The second option, also known as scientific notation, follows a floating point system in which the decimal position is determined by the power of 10 multiplier to the far right. Here, the numbers to the right of the decimal are not necessarily smaller than 1 due to the multiplier. Because of its efficiency in storing very large and very small values, computers use the floating point system for their binary numbers. 
+
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
 ### Multiplication and Division
