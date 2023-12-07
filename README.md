@@ -18,6 +18,10 @@ Title: Human Math vs. Computer Math
 - [Multiplication and Division](#Multiplication-and-Division)
 
 [Errors in Floating-Point: How they grow and how to prevent them](#Errors-in-Floating-Point-How-they-grow-and-how-to-prevent-them)  
+- [Addition](#Addition)
+- [Subtraction](#Subtraction)
+- [Multiplication](#Multiplication)
+- [Division](#Division)
 - [Catastrophic Cancellation](#Catastrophic-Cancellation)
 
 [References](#References)  
@@ -195,7 +199,12 @@ giving us a calculated value of $7.63782368 * 10^6$. When we apply the mantissa 
 
 Again, division is just as simple. The only difference lies in the operation that is carried out between exponents (subtract them) and mantissa (divide them accordingly).
 ## Errors in Floating-Point: How they grow and how to prevent them
-
+Errors happen very frequently when dealing with floating-point arithmetic. 
+### Addition
+### Subtraction
+### Multiplication
+### Division
+### 
 ### Catastrophic Cancellation
 
 # References
