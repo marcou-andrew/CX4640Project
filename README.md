@@ -4,7 +4,7 @@ Name: Andrew Marcou
 Topic: Floating Point Arithmetic  
 Title: Computer Math versus Human Math
 ---- 
-Table of Contents
+# Table of Contents  
 [Introduction](#Introduction)   
 [Human Numbers](#Human-Numbers)  
 [Why computer numbers are different](#Why-computer-numbers-are-different)  
