@@ -4,7 +4,7 @@ Name: Andrew Marcou
 Topic: Floating Point Arithmetic  
 Title: Computer Math versus Human Math
 ---- 
-# Table of Contents  
+## Table of Contents  
 [Introduction](#Introduction)   
 - [Human Numbers](#Human-Numbers)  
 - [Why computer numbers are different](#Why-computer-numbers-are-different)
@@ -170,7 +170,8 @@ Again, the rounding error shows up.
 Errors also show up when values are especially small or large and will be discussed later in this section, but for now, let us look at how the floating-point system operates in standard arithmetical operations.
 
 ### Addition and Subtraction
-Because addition and subtraction follow very similar processes, they will be discussed in one section. When adding and subtracting floating-point numbers, the exponents must match, otherwise, the addition cannot take place. To account for this, the exponent of the smaller number is raised to that of the larger number and the mantissa is adjusted accordingly. After this process occurs, the numbers are added in the standard manner, and the exponent is attached back onto the number. 
+Because addition and subtraction follow very similar processes, they will be discussed in one section. When adding and subtracting floating-point numbers, the exponents must match, otherwise, the addition cannot take place. To account for this, the exponent of the smaller number is raised to that of the larger number and the mantissa is adjusted accordingly. After this process occurs, the numbers are added in the standard manner, and the exponent is attached back onto the number. For example:
+
 ### Multiplication
 
 ### Division
