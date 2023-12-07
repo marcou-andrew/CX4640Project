@@ -129,6 +129,7 @@ This again raises an important topic, machine epsilon or ε<sub>mach</sub>. Mach
 * ε<sub>mach</sub> = $2^{-24} \approx 10^{-7}$ in single precision (7 digits of precision in decimal)
 * ε<sub>mach</sub> = $2^{-53} \approx 10^{-16}$ in double precision (16 digits of precision in decimal)
 
+To summarize, the floating-point system is utilized to store/represent a much larger range of values than fixed-point systems. Of course, there are many floating-point systems that contain different standards, but for the purpose of simplicity, we deal with the IEEE 754 floating-point system and its utilization with base-2 numbers.
 
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
