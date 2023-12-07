@@ -147,7 +147,7 @@ $$\frac{1}{10} \approx 0.000110011001100 \text{   and   } \frac{2}{10} = 0.00110
 $$\therefore 0.000110011001100 + 0.001100110011001 = 0.299957275390625 < 0.3$$
 Again, the rounding error shows up.
 
-Errors also show up when values are especially small and will be discussed later in this section, but for now, let us look at how the floating-point system operates in standard arithmetical operations.
+Errors also show up when values are especially small or large and will be discussed later in this section, but for now, let us look at how the floating-point system operates in standard arithmetical operations.
 
 ### Addition and Subtraction
 Because addition and subtraction follow very similar processes, they will be discussed in one section. When adding and subtracting floating-point numbers, the exponents must match, otherwise, the addition cannot take place. To account for this, the exponent of the smaller number is raised to that of the larger number and the mantissa is adjusted accordingly. After this process occurs, the numbers are added in the standard manner, and the exponent is attached back onto the number. 
