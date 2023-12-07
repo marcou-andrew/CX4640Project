@@ -15,7 +15,8 @@ Title: Human Math vs. Computer Math
 
 [Floating-Point Arithmetic](#Floating-Point-Arithmetic)   
 - [Addition and Subtraction](#Addition-and-Subtraction)  
-- [Multiplication and Division](#Multiplication-and-Division)  
+- [Multiplication and Division](#Multiplication-and-Division)
+
 [Errors in Floating-Point: How they grow and how to prevent them](#Errors-in-Floating-Point-How-they-grow-and-how-to-prevent-them)  
 - [Catastrophic Cancellation](#Catastrophic-Cancellation)
 
