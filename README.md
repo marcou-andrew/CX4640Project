@@ -11,7 +11,7 @@ Title: Computer Math versus Human Math
 [Floating Point Numbers](#Floating-Point-Numbers)  
 [The Basics of Floating-Point Numbers](#The-Basics-of-Floating-Point-Numbers)  
 [Computers Use Floating Point Number Systems](#Computers-Use-Floating-Point-Number-Systems)  
-[Floating-Point Arithmetic](#Floating-Point-Arithmetic) 
+[Floating-Point Arithmetic](#Floating-Point-Arithmetic)   
 [Addition and Subtraction](#Addition-and-Subtraction)  
 [Multiplication](#Multiplication)  
 [Division](#Division)  
