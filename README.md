@@ -126,8 +126,8 @@ Round to nearest is the most accurate method and is the default within the IEEE 
 
 This again raises an important topic, machine epsilon or ε<sub>mach</sub>. Machine epsilon is the accuracy of the floating-point system. In other words, ε<sub>mach</sub> is the smallest possible value that a computer can notice. Any smaller and it will identify that number as 0. For IEEE floating point systems:
 
-* ε<sub>mach</sub> = $2^{-24} /approx 10^{-7}$ in single precision
-* ε<sub>mach</sub> = $2^{-53} /approx 10^{-16}$ in double precision
+* ε<sub>mach</sub> = $2^{-24} \approx 10^{-7}$ in single precision
+* ε<sub>mach</sub> = $2^{-53} \approx 10^{-16}$ in double precision
 
 
 ## Floating-Point Arithmetic
