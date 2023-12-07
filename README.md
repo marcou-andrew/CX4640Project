@@ -202,6 +202,7 @@ Again, division is just as simple. The only difference lies in the operation tha
 Errors happen very frequently when dealing with floating-point arithmetic. They can show up for many reasons but can be catastrophic to a code. Listed below are common errors found in each operation.
 - For any case, the exponent of the result could be too large to be represented, thus failing
 - Arbitrarily large values are often harder to represent than arbitrarily small values, as those small values are essentially zero
+- Approximation errors in converting decimal to binary will always produce error
 ### Addition
 - Due to floating-point addition being communitive but NOT associative, it is important to note that $(a + b) + c \ne a + (b + c)$
   - This can be witnessed in an equation where n is slightly smaller than ε<sub>mach</sub>: $(1 + n) + n = 1$ but $1 + (n + n) > 1$
@@ -209,6 +210,9 @@ Errors happen very frequently when dealing with floating-point arithmetic. They 
 - When adding a very large number to a very small number, a shift in the mantissa may cause the smaller number to be completely lost, effectively adding zero to the number
   - This can be seen in $3.32 * 10^2 + 2.13 * 10^{-3}$ when $2.13 * 10^-3$ becomes $0.0000213 * 10^2$ as it has to follow the exponent, and is then washed out when the sum is rounded
 ### Subtraction
+- Subtraction can introduce cancellation, which will be discussed in a later section
+- Similar to addition, when subtracting a very small value from a very large value, oftentimes the very small value will be insignificant, and essentially take on the value 0
+- Subtraction is also NOT associative, meaning switching the order in which operations are carried out has the potential to change the final answer
 ### Multiplication
 ### Division
 ### 
