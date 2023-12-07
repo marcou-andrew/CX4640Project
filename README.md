@@ -160,3 +160,5 @@ Because addition and subtraction follow very similar processes, they will be dis
 ### Errors: How they grow and how to prevent them
 
 ### Catastrophic Cancellation
+
+# References
