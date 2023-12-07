@@ -102,9 +102,9 @@ The first option takes up a lot of space, and though it is a very intuitive solu
 Floating point numbers are represented in a computer with three main parts:
 * The sign of the number
 * The mantissa - the number itself
-* The exponent - the multiplier for the number to move the decimal  
+* The exponent - the multiplier for the number to move the decimal 
 
-A floating point number is said to be normalized if the leading integer of the mantissa contains a number that satisfies 1 ≤ m < β where β is the base that we are operating in.
+A floating point number is said to be normalized if the leading integer of the mantissa contains a number that satisfies 1 ≤ m < β where β is the base that we are operating in (modern computers use β = 2).
  
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
