@@ -132,5 +132,8 @@ This again raises an important topic, machine epsilon or ε<sub>mach</sub>. Mach
 To summarize, the floating-point system is utilized to store/represent a much larger range of values than fixed-point systems. Of course, there are many floating-point systems that contain different standards, but for the purpose of simplicity, we deal with the IEEE 754 floating-point system and its utilization with base-2 numbers.
 
 ## Floating-Point Arithmetic
+
+With all of the necessary prerequisites out of the way, we can begin discussing how basic math is carried out within computers, and where crazy errors can come from if one is not careful. Recall from the introduction the alluded statement that 0.1 + 0.2 &ne; 0.3 when the calculation is done using a computer. This is due to the binary approximation of 0.1 and 0.2 not being able to fit within the limited space of the floating-point number. To clear things up, we know that:
+$$\frac{1}{3} = 0.\overline{3}$$
 ### Addition and Subtraction
 ### Multiplication and Division
