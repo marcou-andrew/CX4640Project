@@ -22,6 +22,7 @@ Title: Human Math vs. Computer Math
 - [Subtraction](#Subtraction)
 - [Multiplication](#Multiplication)
 - [Division](#Division)
+- [Preventing Errors](#Preventing-Errors)
 - [Catastrophic Cancellation](#Catastrophic-Cancellation)
 
 [Summary/Conclusion](#SummaryConclusion)    
@@ -229,6 +230,12 @@ Errors happen very frequently when dealing with floating-point arithmetic. They 
 - Dividing a number by a very small number could return Inf or a special case of NaN
 - Dividing a very small number by a very large number could result in 0 due to mantissa limits
 - Subtraction is also NOT associative
+## Preventing Errors
+Sometimes it is possible to work around these errors using specific methods. Whenever possible, it is important to try to mitigate floating-point error to avoid failure of a function.
+* Try to add values of similar magnitude (i.e. add very small numbers to other very small numbers)
+* Avoid subtracting similar values; algebraically "massage" the equation to avoid this subtraction
+* When multiplying and dividing, attempt to multiply and divide by numbers near to 1 (to prevent from getting very large or very small numbers)
+* Use built-in functions (where possible) that are better optimized to reduce error
 ### Catastrophic Cancellation
 Catastrophic Cancellation occurs when you have a subtraction of two very similar numbers. Though you get a very precise result, the cancellation of leading digits causes an extreme loss of information. For example
 $$6.23145 * 10^1 - 6.23134 * 10^1 = 1.10000 * 10^{-3}$$
