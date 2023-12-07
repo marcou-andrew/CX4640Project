@@ -248,7 +248,9 @@ which is a much more numerically stable expression.
 * Binary number system (video lessons, examples, solutions). www.onlinemathlearning.com. (n.d.). https://www.onlinemathlearning.com/binary-number-system.html 
 * Decimal number system. Mathematical Mysteries. (2022, August 9). https://mathematicalmysteries.org/decimal-number-system/ 
 * Eswaran, S. (2020, November 2). Floating point arithmetic: Computer architecture. Witspry Witscad. https://witscad.com/course/computer-architecture/chapter/floating-point-arithmetic
-* GeeksforGeeks. (2020, March 16). IEEE standard 754 Floating point numbers. GeeksforGeeks. https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/ 
+* GeeksforGeeks. (2020, March 16). IEEE standard 754 Floating point numbers. GeeksforGeeks. https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/
+* Heath, Prof. M. T. (2023, December). CX 4640 - Numerical Analysis, Chapter 1: Scientific Computing. Class. Atlanta, Georgia. 
+* Software, .com. (2022, October 4). Floating dangers in PHP. Medium. https://medium.com/@dotcom.software/floating-dangers-in-php-c4a2220bd8dc 
 * YouTube. (2014). Floating Point Numbers - Computerphile. YouTube. Retrieved December 7, 2023, from https://www.youtube.com/watch?v=PZRI1IfStY0&amp;t=77s&amp;ab_channel=Computerphile. 
 * YouTube. (2017). Why Do Computers Use 1s and 0s? Binary and Transistors Explained. YouTube. Retrieved December 7, 2023, from https://www.youtube.com/watch?v=Xpk67YzOn5w&amp;ab_channel=BasicsExplained%2CH3Vtux.
 * 
