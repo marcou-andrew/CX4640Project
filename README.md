@@ -204,6 +204,7 @@ Errors happen very frequently when dealing with floating-point arithmetic. They 
 - Due to floating-point addition being communitive but NOT associative, it is important to note that $(a + b) + c \ne a + (b + c)$
   - This can be witnessed in an equation where n is slightly smaller than ε<sub>mach</sub>: $(1 + n) + n = 1$ but $1 + (n + n) > 1$
   - Due to computer rounding above, the order in which the operations execute will greatly affect the answer
+- When adding a very large number to a very small number, a shift in the mantissa may cause the smaller number to be completely lost, effectively adding zero to the number
 ### Subtraction
 ### Multiplication
 ### Division
