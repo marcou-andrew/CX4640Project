@@ -107,7 +107,7 @@ Floating point numbers are represented in a computer with three main parts:
 A floating-point number is said to be normalized if the leading integer of the mantissa contains a number that satisfies 1 ≤ m < β where β is the base that we are operating in (modern computers use β = 2).
 
 ### Computers Use Floating Point Number Systems 
-Because of its efficiency in being able to store a wide range of values, computers utilize the IEEE 754 Floating-Point Standard
+Because of its efficiency in being able to store a wide range of values, computers utilize the IEEE 754 Floating-Point Standard. 1 "bit" represents a 0 or a 1, and a "byte" represents eight zeros or ones.
 
 <div align="center">
 Below is a visualization for IEEE 754 Floating Point Standard for Single Precision
