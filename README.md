@@ -125,7 +125,7 @@ Again due to the limited capacity of the floating-point system, not all numbers 
 
 Round to nearest is the most accurate method and is the default within the IEEE system. 
 
-&epsilon;
+&epsilon_mach;
 
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
