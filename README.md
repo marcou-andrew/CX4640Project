@@ -137,6 +137,6 @@ With all of the necessary prerequisites out of the way, we can begin discussing 
 $$\frac{1}{3} = 0.\overline{3}$$
 The link above the 0.3 represents the fact that we know those 3's continue for infinity. Unfortunately, we cannot write infinite 3's, and therefore need an approximation. We can then write
 $$\frac{1}{3} \approx 0.333$$
-$$\therfore$$
+$$\therefore$$
 ### Addition and Subtraction
 ### Multiplication and Division
