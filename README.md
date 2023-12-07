@@ -184,8 +184,10 @@ Subtraction is carried out in the same manner. The only difference lies in the o
 Multiplication and Division are also very similar in their operations. They are also quite simple, as the product/quotient mantissa and exponent can be found independently of each other. Of course, the final answer must abide by the mantissa length and base. For example, let us take the same x and y as before:
 $$\beta = 10 \text{ (base-10)}, p = 5 \text{ (length of mantissa)}$$
 $$x = 3.4352 * 10^4, y = 2.2234 * 10^{2}$$
-Let us look for $x * y$
-We can first find the exponent value by adding the exponents
+Let us look for $x * y$  
+We can first find the product exponent value by adding the exponents together. This will give us
+$$4 + 2 = 6$$
+$$\therefore \text{exponent} = 10^6$$
 ### Errors: How they grow and how to prevent them
 
 ### Catastrophic Cancellation
