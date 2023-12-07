@@ -119,6 +119,12 @@ Below is a visualization for IEEE 754 Floating Point Standard for Double Precisi
  
 </div>
 
+Again due to the limited capacity of the floating-point system, not all numbers are representable. If such is the case, then the number will be approximated to a nearby floating point number. This process is referred to as rounding and introduces the important topic of rounding error. Two methods of rounding are commonly used.
+* Chopping - removing the "extra" bits of a number and leaving the rest as is; also referred to as rounding toward zero
+* Round to Nearest - rounds to the closest floating point number, up or down.
+
+Round to nearest is the most accurate method and is the default within the IEEE system. 
+
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
 ### Multiplication and Division
