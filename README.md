@@ -137,7 +137,7 @@ With all of the necessary prerequisites out of the way, we can begin discussing 
 $$\frac{1}{3} = 0.\overline{3}$$
 The link above the 0.3 represents the fact that we know those 3's continue for infinity. Unfortunately, we cannot write infinite 3's, and therefore, we need an approximation. We can then write
 $$\frac{1}{3} \approx 0.333$$
-$$\therefore 0.333 + 0.333 + 0.333 = 0.999$$
+$$\therefore 0.333 + 0.333 + 0.333 = 0.999 < 1$$
 It is here where the computational error is introduced. Of course, we know that 0.999 is incredibly close to 1 and so we consider them to be equivalent. But a computer cannot make that connection, and therefore correctly deems them unequal. 
 ### Addition and Subtraction
 ### Multiplication and Division
