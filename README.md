@@ -6,7 +6,7 @@ Title: Computer Math versus Human Math
 ---- 
 Table of Contents
 [Introduction](#Introduction)   
-[Let's start with what we are used to - Human Numbers](#Let's-start-with-what-we-are-used-to-Human-Numbers)  
+[Let's start with what we are used to - Human Numbers](#Let's-start-with-what-we-are-used-to---Human-Numbers)  
 [Why computer numbers are different](#Why-computer-numbers-are-different)  
 [Floating Point Numbers](#Floating-Point-Numbers)  
 [The Basics of Floating-Point Numbers](#The-Basics-of-Floating-Point-Numbers)  
