@@ -13,7 +13,8 @@ Title: Computer Math versus Human Math
 Humans operate on base-10, or the decimal system. This means that numbers can have integer values ranging from 1-9, and the position of that number is based on powers of 10. Each number position moving from right to left is 10 times the position to its right. Digits to the left of the decimal are representative of values greater than or equal to 1, while values to the right are representative of values less than 1. This gives us the system that we use every day. 
 <div align="center">
   
-![](decimalvisualization.png)
+![](decimalvisualization.png)  
+via: https://mathematicalmysteries.org/decimal-number-system/
 
 </div>
 
@@ -48,7 +49,8 @@ Multiplication also operates in a simple manner. Multiplication is carried out c
 Though many take it for granted, the human mind is incredibly complex and is seemingly impossible to replicate. Consequently, it is very hard for a computer to operate in base-10. Luckily, due to the way its transistors operate, a computer operates very efficiently in base-2 arithmetic. Base-2 means the computer only has 2 digits to work with, unlike the 10 digits that base-10 utilizes. Each position value is determined by the integer 1 or 0, and the position location is determined by powers of 2. For example, the number 5 in base-2 arithmetic is expressed as 101.
 <div align="center">
   
-![](binarytodecimal.png)
+![](binarytodecimal.png)  
+via: https://www.onlinemathlearning.com/binary-number-system.html
 
 </div>
 
