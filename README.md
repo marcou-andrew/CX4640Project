@@ -229,4 +229,7 @@ Here we see that although the answer is precise and correct, the result is only 
 For another example where n is a number slightly smaller than ε<sub>mach</sub>:
 $$(1 + n) - (1 - n) = 1 - 1 = 0$$
 as represented in floating-point arithmetic. When in reality we know that there is a $2n$ that is larger than ε<sub>mach</sub> but has been completely lost.
+
+Oftentimes, catastrophic cancellation can be resolved through algebraic manipulation of equations, attempting to avoid subtractions of similar values wherever possible. For example, the equation
+$$\frac{1}{t*(1-\sqrt{1-t^2})}$$
 # References
