@@ -233,5 +233,5 @@ as represented in floating-point arithmetic. When in reality we know that there 
 Oftentimes, catastrophic cancellation can be resolved through algebraic manipulation of equations, attempting to avoid subtractions of similar values wherever possible. For example, the equation
 $$\frac{1}{t*(1-\sqrt{1-t^2})}$$
 incurs catastrophic cancellation in subtracting $1 - \sqrt{1-t^2}$, but this can be easily avoided by multiplying by the complex conjugate 
-$$\frac{1}{t*(1-\sqrt{1-t^2})} * \frac{1 + \sqrt{1-t^2}}{1 + \sqrt{1-t^2}} = \frac{t}{1 + \sqrt{1-t^2}}
+$$\frac{1}{t*(1-\sqrt{1-t^2})} * \frac{1 + \sqrt{1-t^2}}{1 + \sqrt{1-t^2}} = \frac{t}{1 + \sqrt{1-t^2}}$$
 # References
