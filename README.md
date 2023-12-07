@@ -110,11 +110,16 @@ A floating-point number is said to be normalized if the leading integer of the m
 Because of its efficiency in being able to store a wide range of values, computers utilize the IEEE 754 Floating-Point Standard
 
 <div align="center">
+Below is a visualization for IEEE 754 Floating Point Standard for Single Precision
   
 ![](floatinpointnumberpieces.png)
-  
- </div>
- 
+
+Below is a visualization for IEEE 754 Floating Point Standard for Single Precision
+
+![](floatingpointnumberpiecesdouble.png)
+
+</div>
+
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
 ### Multiplication and Division
