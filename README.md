@@ -135,8 +135,9 @@ To summarize, the floating-point system is utilized to store/represent a much la
 
 With all of the necessary prerequisites out of the way, we can begin discussing how basic math is carried out within computers, and where crazy errors can come from if one is not careful. Recall from the introduction the alluded statement that 0.1 + 0.2 &ne; 0.3 when the calculation is done using a computer. This is due to the binary approximation of 0.1 and 0.2 not being able to fit within the limited space of the floating-point number. To clear things up, we know that in decimal:
 $$\frac{1}{3} = 0.\overline{3}$$
-The link above the 0.3 represents the fact that we know those 3's continue for infinity. Unfortunately, we cannot write infinite 3's, and therefore need an approximation. We can then write
+The link above the 0.3 represents the fact that we know those 3's continue for infinity. Unfortunately, we cannot write infinite 3's, and therefore, we need an approximation. We can then write
 $$\frac{1}{3} \approx 0.333$$
-$$\therefore 0.333 + 0.333 + 0.333 \approx 1$$
+$$\therefore 0.333 + 0.333 + 0.333 = 0.999$$
+It is here where the computational error is introduced. Of course, we know that 0.999 is incredibly close to 1 and so we consider them to be equivalent. But a computer cannot make that connection, and therefore correctly deems them unequal. 
 ### Addition and Subtraction
 ### Multiplication and Division
