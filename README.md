@@ -112,11 +112,13 @@ Because of its efficiency in being able to store a wide range of values, compute
 Below is a visualization for IEEE 754 Floating Point Standard for Single Precision
   
 ![](floatinpointnumberpieces.png)
+via: https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/
 
 Below is a visualization for IEEE 754 Floating Point Standard for Double Precision
 
 ![](floatingpointnumberpiecesdouble.png)
- 
+via: https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/
+
 </div>
 
 Again due to the limited capacity of the floating-point system, not all numbers are representable. If such is the case, then the number will be approximated to a nearby floating point number. This process is referred to as rounding and introduces the important topic of rounding error. Two methods of rounding are commonly used.
