@@ -214,8 +214,13 @@ Errors happen very frequently when dealing with floating-point arithmetic. They 
 - Similar to addition, when subtracting a very small value from a very large value, oftentimes the very small value will be insignificant, and essentially take on the value 0
 - Subtraction is also NOT associative, meaning switching the order in which operations are carried out has the potential to change the final answer
 ### Multiplication
+- Multiplying two very large values can produce a result larger than the maximum exponent
+- Multiplying a number with a very small number could result in 0 due to limits on the mantissa length
+- Multiplication is also NOT associative
 ### Division
-### 
+- Dividing a number by a very small number could return Inf or a special case of NaN
+- Dividing a very small number by a very large number could result in 0 due to mantissa limits
+- Subtraction is also NOT associative
 ### Catastrophic Cancellation
 
 # References
