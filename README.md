@@ -15,8 +15,7 @@ Title: Human Math vs. Computer Math
 
 [Floating-Point Arithmetic](#Floating-Point-Arithmetic)   
 - [Addition and Subtraction](#Addition-and-Subtraction)  
-- [Multiplication](#Multiplication)  
-- [Division](#Division)  
+- [Multiplication and Division](#Multiplication-and-Division)  
 - [Errors: How they grow and how to prevent them](#Errors-How-they-grow-and-how-to-prevent-them)  
 - [Catastrophic Cancellation](#Catastrophic-Cancellation)
 
@@ -181,9 +180,7 @@ but due to the mantissa limit of p = 5, we must round off the last 2 digits, giv
 $$x + y = 3.4574 * 10^4$$
 
 Subtraction is carried out in the same manner. The only difference lies in the operation that is carried out with both mantissa (subtraction in place of addition).
-### Multiplication
-
-### Division
+### Multiplication and Division
 
 ### Errors: How they grow and how to prevent them
 
