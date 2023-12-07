@@ -190,6 +190,7 @@ $$4 + 2 = 6$$
 $$\therefore \text{exponent} = 10^6$$
 and now we find the mantissa value by multiplying the mantissa of x and y  
 $$3.4352 * 2.2234 = 7.63782368$$
+Giving us a calculated value of $7.63782368 * 10^6$
 ### Errors: How they grow and how to prevent them
 
 ### Catastrophic Cancellation
