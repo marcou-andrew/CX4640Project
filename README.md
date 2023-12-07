@@ -105,6 +105,10 @@ Floating point numbers are represented in a computer with three main parts:
 * The exponent - the multiplier for the number to move the decimal 
 
 A floating point number is said to be normalized if the leading integer of the mantissa contains a number that satisfies 1 ≤ m < β where β is the base that we are operating in (modern computers use β = 2).
+
+### Computers Use Floating Point Number Systems
+
+
  
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
