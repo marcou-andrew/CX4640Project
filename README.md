@@ -201,6 +201,7 @@ Again, division is just as simple. The only difference lies in the operation tha
 ## Errors in Floating-Point: How they grow and how to prevent them
 Errors happen very frequently when dealing with floating-point arithmetic. They can show up for many reasons but can be catastrophic to a code. Listed below are common errors found in each operation.
 - For any case, the exponent of the result could be too large to be represented, thus failing
+- Arbitrarily large values are often harder to represent than arbitrarily small values, as those small values are essentially zero
 ### Addition
 - Due to floating-point addition being communitive but NOT associative, it is important to note that $(a + b) + c \ne a + (b + c)$
   - This can be witnessed in an equation where n is slightly smaller than ε<sub>mach</sub>: $(1 + n) + n = 1$ but $1 + (n + n) > 1$
