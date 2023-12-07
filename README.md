@@ -179,6 +179,8 @@ and
 $$x + y = 1.93038782 * 10^2$$
 but due to the mantissa limit of p = 6, we must round off the last 3 digits, giving us
 $$x + y = 1.93039 * 10^2$$
+
+Subtraction is carried out in the same manner. The only difference lies in the operation that is carried out with both mantissa (subtraction in place of addition).
 ### Multiplication
 
 ### Division
