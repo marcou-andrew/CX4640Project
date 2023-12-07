@@ -29,7 +29,7 @@ In this system, adding is done exactly how we are used to. If we were given an a
 </div>
 we are always taught to "carry the one". This refers to the fact that the addition taking place in a specific column runs out of integers 1-9, and must pass a value of 1 to the next column to the left, meaning a "movement up" in order of magnitude. The process for subtraction is also very similar in base-10.
 
-Multiplication also operates in a simple manner. Multiplication is carried out column by column, and multiplying values in more left-ward columns will cause a shift in the magnitude of the product by a power of 10. Nuumbers are still "carried" and added to their respective columns similar to addition. For example:
+Multiplication also operates in a simple manner. Multiplication is carried out column by column, and multiplying values in more left-ward columns will cause a shift in the magnitude of the product by a power of 10. Numbers are still "carried" and added to their respective columns similar to addition. For example:
 <div align="center">
   
 |   |   |   |   |   |   |
