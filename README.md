@@ -109,6 +109,9 @@ A floating-point number is said to be normalized if the leading integer of the m
 ### Computers Use Floating Point Number Systems 
 Because of its efficiency in being able to store a wide range of values, computers utilize the IEEE 754 Floating-Point Standard
 
+<div align="center">
+![](floatingpointnumberpieces.png)
+ </div>
  
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
