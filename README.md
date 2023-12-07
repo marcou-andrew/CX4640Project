@@ -244,6 +244,9 @@ incurs catastrophic cancellation in subtracting $1 - \sqrt{1-t^2}$, but this can
 $$\frac{1}{t*(1-\sqrt{1-t^2})} * \frac{1 + \sqrt{1-t^2}}{1 + \sqrt{1-t^2}} = \frac{t}{1 + \sqrt{1-t^2}}$$
 which is a much more numerically stable expression.
 ## Summary/Conclusion
+To start, we introduced the topic of base-2 and base-10 number systems. This led right into the introduction of floating-point number systems, which are essentially just a form of scientific notation. Once these topics were introduced, we then moved on to the main topic of the article, floating-point arithmetic. 
+
+Floating-point arithmetic has its trade-offs. The numbers themselves are very efficient to store and make storage very intuitive and efficient. On the other hand, arithmetic with the numbers can potentially lead to extreme error due to rounding. We explored this phenomenon in many cases, namely in floating-point approximations, floating-point addition and subtraction, and floating-point multiplication and division. These rounding errors can easily compound, blowing up a small error into an extreme failure of an equation. Methods for mitigating this error were also discussed. Cases of extreme information loss such as catastrophic cancellation in subtraction were also explored, as well as potential methods for mitigating the risk of its occurrence. 
 ## References
 * Binary number system (video lessons, examples, solutions). www.onlinemathlearning.com. (n.d.). https://www.onlinemathlearning.com/binary-number-system.html 
 * Decimal number system. Mathematical Mysteries. (2022, August 9). https://mathematicalmysteries.org/decimal-number-system/ 
