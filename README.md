@@ -146,5 +146,7 @@ Again, due to limited computer space, these values are approximated
 $$\frac{1}{10} \approx 0.000110011001100 \text{   and   } \frac{2}{10} = 0.001100110011001$$
 $$\therefore 0.000110011001100 + 0.001100110011001 = 0.299957275390625 < 0.3$$
 Again, the rounding error shows up.
+
+Now, let us look at how the floating-point system operates in arithmetical operations
 ### Addition and Subtraction
 ### Multiplication and Division
