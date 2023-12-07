@@ -99,6 +99,11 @@ The first option takes up a lot of space, and though it is a very intuitive solu
 
 ### The Basics of Floating-Point Numbers
 
+Floating point numbers are represented in a computer with three main parts:
+* The sign of the number
+* The mantissa - the number itself
+* The exponent - the multiplier for the number to move the decimal
+
 ## Floating-Point Arithmetic
 ### Addition and Subtraction
 ### Multiplication and Division
