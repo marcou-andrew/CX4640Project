@@ -202,7 +202,7 @@ Again, division is just as simple. The only difference lies in the operation tha
 Errors happen very frequently when dealing with floating-point arithmetic. They can show up for many reasons but can be catastrophic to a code. Listed below are common errors found in each operation.
 ### Addition
 - Due to floating-point addition being communitive but NOT associative, it is important to note that $(a + b) + c \ne a + (b + c)$
-  - test
+  - This can be witnessed in an equation where n is slightly smaller than ε<sub>mach</sub>: $(1 + n) + n = 1$ but $1 + (n + n) > 1$
 ### Subtraction
 ### Multiplication
 ### Division
