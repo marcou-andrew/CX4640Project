@@ -199,7 +199,7 @@ giving us a calculated value of $7.63782368 * 10^6$. When we apply the mantissa 
 
 Again, division is just as simple. The only difference lies in the operation that is carried out between exponents (subtract them) and mantissa (divide them accordingly).
 ## Errors in Floating-Point: How they grow and how to prevent them
-Errors happen very frequently when dealing with floating-point arithmetic. They can show up for many reasons but can be catastrophic to a code. Listed below are common errors found in each operation.
+Errors happen very frequently when dealing with floating-point arithmetic. They can show up for many reasons but can be catastrophic to a code. As an expression continues, many errors can compound on each other, leading to an incredibly inaccurate result. Listed below are common errors found in each operation.
 - For any case, the exponent of the result could be too large to be represented, thus failing
 - Arbitrarily large values are often harder to represent than arbitrarily small values, as those small values are essentially zero
 - Approximation errors in converting decimal to binary will always produce error
