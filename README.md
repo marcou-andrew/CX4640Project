@@ -191,6 +191,8 @@ $$\therefore \text{exponent} = 10^6$$
 and now we find the mantissa value by multiplying the mantissa of x and y  
 $$3.4352 * 2.2234 = 7.63782368$$
 giving us a calculated value of $7.63782368 * 10^6$. When we apply the mantissa constraint, however, we end up with a final value of $7.6378 * 10^6$
+
+Again, division is just as simple. The only difference lies in the operation that is carried out between exponents (subtract them) and mantissa (divide them accordingly).
 ### Errors: How they grow and how to prevent them
 
 ### Catastrophic Cancellation
