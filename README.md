@@ -141,6 +141,6 @@ $$\therefore 0.333 + 0.333 + 0.333 = 0.999 < 1$$
 It is here where the rounding error is introduced. Of course, we know that 0.999 is incredibly close to 1 and so we consider them to be equivalent. But a computer cannot make that connection, and therefore correctly deems them unequal. 
 
 Now let us consider how 0.1 is approximated in base-2. Because base-2 only recognizes halves, fourths, eighths, and so on, a tenth is very difficult to approximate. 
-$$\frac{1}{10} \approx 0.0\overline{0011} \text{and} \frac{2}{10} \approx 0.\overline{0011}$$
+$$\frac{1}{10} \approx 0.0\overline{0011} \text{ and } \frac{2}{10} \approx 0.\overline{0011}$$
 ### Addition and Subtraction
 ### Multiplication and Division
