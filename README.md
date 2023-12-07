@@ -181,7 +181,9 @@ $$x + y = 3.4574 * 10^4$$
 
 Subtraction is carried out in the same manner. The only difference lies in the operation that is carried out with both mantissa (subtraction in place of addition).
 ### Multiplication and Division
-
+Multiplication and Division are also very similar in their operations. They are also quite simple, as the product/quotient mantissa and exponent can be found independently of each other. Of course, the final answer must abide by the mantissa length and base. For example, let us take the same x and y as before:
+$$\beta = 10 \text{ (base-10)}, p = 5 \text{ (length of mantissa)}$$
+$$x = 3.4352 * 10^4, y = 2.2234 * 10^{2}$$
 ### Errors: How they grow and how to prevent them
 
 ### Catastrophic Cancellation
