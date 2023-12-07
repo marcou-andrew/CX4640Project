@@ -205,6 +205,7 @@ Errors happen very frequently when dealing with floating-point arithmetic. They 
   - This can be witnessed in an equation where n is slightly smaller than ε<sub>mach</sub>: $(1 + n) + n = 1$ but $1 + (n + n) > 1$
   - Due to computer rounding above, the order in which the operations execute will greatly affect the answer
 - When adding a very large number to a very small number, a shift in the mantissa may cause the smaller number to be completely lost, effectively adding zero to the number
+  - This can be seen in $3.32 * 10^2 + 2.13 * 10^{-3}$ when $2.13 * 10^-3$ becomes $0.0000213 * 10^2$ as it has to follow the exponent, and is then washed out when the sum is rounded
 ### Subtraction
 ### Multiplication
 ### Division
