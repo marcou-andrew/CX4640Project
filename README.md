@@ -171,14 +171,14 @@ Errors also show up when values are especially small or large and will be discus
 
 ### Addition and Subtraction
 Because addition and subtraction follow very similar processes, they will be discussed in one section. When adding and subtracting floating-point numbers, the exponents must match, otherwise, the addition cannot take place. To account for this, the exponent of the smaller number is raised to that of the larger number and the mantissa is adjusted accordingly. After this process occurs, the numbers are added in the standard manner, and the exponent is attached back onto the number. For example:
-$$\beta = 10 \text{ (base-10)}, p = 6 \text{ (length of mantissa)}$$
-$$x = 1.92403 * 10^2, y = 6.35782 * 10^{-1}$$
+$$\beta = 10 \text{ (base-10)}, p = 5 \text{ (length of mantissa)}$$
+$$x = 3.4352 * 10^4, y = 2.2234 * 10^{2}$$
 because we must shift the exponent of the smaller value to that of the larger value, the y value will become  
-$$y = 0.00635782 * 10^2$$  
+$$y = 0.022234 * 10^4$$  
 and 
-$$x + y = 1.93038782 * 10^2$$
-but due to the mantissa limit of p = 6, we must round off the last 3 digits, giving us
-$$x + y = 1.93039 * 10^2$$
+$$x + y = 3.457434 * 10^4$$
+but due to the mantissa limit of p = 5, we must round off the last 2 digits, giving us
+$$x + y = 3.4574 * 10^4$$
 
 Subtraction is carried out in the same manner. The only difference lies in the operation that is carried out with both mantissa (subtraction in place of addition).
 ### Multiplication
