@@ -15,7 +15,7 @@ Title: Computer Math versus Human Math
 [Addition and Subtraction](#Addition-and-Subtraction)  
 [Multiplication](#Multiplication)  
 [Division](#Division)  
-[Errors: How they grow and how to prevent them](#Errors:-How-they-grow-and-how-to-prevent-them)  
+[Errors: How they grow and how to prevent them](#Errors-How-they-grow-and-how-to-prevent-them)  
 [References](#References)  
 [References](#References)  
 ## Introduction
