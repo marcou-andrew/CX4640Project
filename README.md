@@ -222,5 +222,11 @@ Errors happen very frequently when dealing with floating-point arithmetic. They 
 - Dividing a very small number by a very large number could result in 0 due to mantissa limits
 - Subtraction is also NOT associative
 ### Catastrophic Cancellation
+Catastrophic Cancellation occurs when you have a subtraction of two very similar numbers. Though you get a very precise result, the cancellation of leading digits causes an extreme loss of information. For example
+$$6.23145 * 10^1 - 6.23134 * 10^1 = 1.10000 * 10^-3$$
+Here we see that although the answer is precise and correct, the result is only 2 significant digits, while the previous numbers had 6.
 
+For another example where n is a number slightly smaller than ε<sub>mach</sub>:
+$$(1 + n) - (1 - n) = 1 - 1 = 0$$
+as represented in floating-point arithmetic. When in reality we know that there is a $2n$ that is larger than ε<sub>mach</sub> but has been completely lost.
 # References
